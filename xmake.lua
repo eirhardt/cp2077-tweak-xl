@@ -35,6 +35,8 @@ else
 end
 
 add_requires("hopscotch-map", "minhook", "spdlog", "tiltedcore", "yaml-cpp")
+-- Local build fix: prebuilt TiltedCore needs mi_malloc_size, which mimalloc 3.x dropped
+add_requireconfs("tiltedcore.mimalloc", {version = "2.x", override = true})
 
 target("TweakXL")
     set_default(true)
