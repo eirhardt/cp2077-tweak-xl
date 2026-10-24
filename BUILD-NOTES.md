@@ -1,6 +1,6 @@
 # Local 2.5 build
 
-Private mirror of [psiberx/cp2077-tweak-xl](https://github.com/psiberx/cp2077-tweak-xl) (MIT).
+Fork of [psiberx/cp2077-tweak-xl](https://github.com/psiberx/cp2077-tweak-xl) (MIT).
 
 | Branch | Contents |
 |---|---|
