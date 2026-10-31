@@ -31,3 +31,8 @@ pwsh -File tools\dist\package-mod.ps1 -ReleaseBin build\windows\x64\release\Twea
 Output: `build\dist\TweakXL-1.11.5.zip`, extract into the game folder.
 
 Switch back to the official release once TweakXL ships 2.5 support.
+
+## Retired (Oct 31, 2026)
+
+The official release with patch 2.5 support is installed now (TweakXL 1.12.0). This branch is kept
+for reference only.
